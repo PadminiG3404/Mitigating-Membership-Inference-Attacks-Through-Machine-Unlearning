@@ -1,0 +1,2 @@
+# Mitigating-Membership-Inference-Attacks-Through-Machine-Unlearning
+This repo implements machine unlearning on ResNet-18 to enhance privacy by efficiently removing specific data without full retraining. It evaluates the impact on model performance, security against Membership Inference Attacks (MIA), and computational efficiency, bridging theory with real-world applications in privacy-preserving AI.
