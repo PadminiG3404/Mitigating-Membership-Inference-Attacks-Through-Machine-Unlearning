@@ -2,6 +2,8 @@
 
 ## Overview
 This project explores **Machine Unlearning** techniques to mitigate **Membership Inference Attacks (MIA)** on deep learning models. We evaluate the impact of unlearning on privacy and model performance using **ResNet-18** trained on **CIFAR-10**. Our approach aims to remove sensitive data efficiently while preserving model accuracy and robustness.
+![1733851271182](https://github.com/user-attachments/assets/a8a9f00d-d76b-4f2f-814f-1ac47b0daefb)
+
 ---
 ## Methodology ⚙️
 - Train a **ResNet-18** model on CIFAR-10.
@@ -9,6 +11,7 @@ This project explores **Machine Unlearning** techniques to mitigate **Membership
 - Apply **machine unlearning** via fine-tuning and re-training.
 - Measure **accuracy degradation** and **MIA resistance** post-unlearning.
 - Compare **attack success rates** before and after unlearning.
+
 ---
 ## Getting Started 🚀
 Run the project using Google Colab:  
